@@ -105,7 +105,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ⭐ If you found this helpful, give it a star on GitHub!
 
-```
-
-Let me know if you want this as a downloadable `.md` file or want help deploying to GitHub Pages! 🚀
-```
