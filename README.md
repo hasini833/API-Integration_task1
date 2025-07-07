@@ -13,11 +13,6 @@
 *MENTOR*:NEELA SANTOSH
 
 
-Sure bro! Here's a 600-word version of the **README.md** file for your **API Integration Dashboard** project, perfect for GitHub:
-
----
-
-```markdown
 # 🌐 API Integration Dashboard
 
 This is a **real-time, responsive dashboard** web app that integrates data from public APIs to show live weather updates and the latest news headlines. It is built using HTML, CSS, and JavaScript without any frameworks, keeping it lightweight and beginner-friendly.
@@ -59,17 +54,13 @@ This is a **real-time, responsive dashboard** web app that integrates data from 
 
 ## 📁 Project Structure
 
-```
 
 📦 api-integration-dashboard/
 ├── index.html         # Main application file
 └── README.md          # Project documentation
 
-````
-
 No frameworks or build tools are used. Just open `index.html` directly in your browser.
 
----
 
 ## ⚙️ How to Use
 
